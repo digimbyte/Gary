@@ -69,3 +69,62 @@ Interpretation:
 Interpretation:
 
 - A: “I’m soft toward you, I’m awkward about it, but I still feel that softness.”  
+- B: “I feel that too, and I’m happy / energized by it.”
+
+---
+
+## 4. Internal Monologue (4+ Tokens)
+
+> `gary… gàry… gãryyyy… gaary. gary.`
+
+Interpretation:
+
+- `gary…` – Generic low energy / “ugh.”
+- `gàry…` – Pulling inward / “I want to withdraw.”
+- `gãryyyy…` – Emotional fog / “I don’t fully understand this.”
+- `gaary. gary.` – Gentle self-acceptance / “It’s okay; I’m here.”
+
+This would be analogous to an internal scene of someone processing a bad day and self-soothing.
+
+---
+
+## 5. The Canonical Fox–Dog Sentence
+
+Analogue of:
+
+> “The quick brown fox jumped over the lazy dog.”
+
+In Garry:
+
+> **`gáry gary! gaary garyyy, gàry… gary.`**
+
+Suggested performance:
+
+1. `gáry` – Slightly uplifted tone, quick onset.  
+2. `gary!` – Short, sharp, with a little physical “spring” gesture.  
+3. `gaary` – Stretched `aa`, like taking off.  
+4. `garyyy,` – Gliding `yyy`, like an arc, with a hand movement.  
+5. `gàry…` – Low pitch, downward hand / eyes, signaling laziness.  
+6. `gary.` – Flat, small nod: scene closed.
+
+This line showcases:
+
+- diacritics (`á`, `à`)
+- lengthening of `a` and `y`
+- punctuation (`!`, `,`, `…`, `.`)
+- multi-token narrative structure
+
+---
+
+## 6. Teaching Micro-Cheat Sheet
+
+For quick onboarding:
+
+- **Ping / presence:** `gary.`  
+- **Question:** `gary?`  
+- **Soft yes:** `gaary. gary.`  
+- **Hard no / boundary:** `GARY. gary.`  
+- **I’m not okay but surviving:** `gary… gary.`  
+- **I like you (indirect):** `gaary. gary… gaary.`
+
+Students can start with these and expand into the full lexicon.
