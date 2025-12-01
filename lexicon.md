@@ -111,4 +111,11 @@ This is recommended as a **canonical example** in teaching materials.
 New entries should:
 
 1. Respect the **token rule** (g–a–r–y in order).
-2. Be described by **form + gloss + context note**
+2. Be described by **form + gloss + context notes**.
+3. Embrace **soft, implied meanings**, not rigid denotations.
+
+Example of adding a new canonical:
+
+- Form: `gâary! gary!`  
+- Gloss: “This specific plan, now.”  
+- Notes: use when insisting on a particular option among several.
