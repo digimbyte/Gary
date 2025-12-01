@@ -1,13 +1,13 @@
-# Garry Language
+# Gary Language
 
-**Garry** is a deliberately hyper-minimal constructed language.
+**Gary** is a deliberately hyper-minimal constructed language.
 
 - It has **one** lexical root: `gary`.
 - Every spoken or written “word” must contain the full sequence **g–a–r–y**.
 - There are **no other roots, no pronouns, no separate verbs**.
 - All nuance comes from **how** you shape `gary`: length, diacritics, rhythm, pitch, repetition, and punctuation.
 
-Garry is not built to be a full replacement for natural language. It’s a **high-context signal language** and a design toy for thinking about:
+Gary is not built to be a full replacement for natural language. It’s a **high-context signal language** and a design toy for thinking about:
 
 - How much meaning humans can squeeze from **prosody and pattern**, not vocabulary.
 - How subtext, attitude, and relationship are communicated **indirectly**.
@@ -36,7 +36,7 @@ Garry is not built to be a full replacement for natural language. It’s a **hig
 
 4. **Pragmatics are essential**:
    - Eye contact, pointing, posture, and timing are part of the message.
-   - Garry assumes a shared context. It is intentionally **indirect and implied**.
+   - Gary assumes a shared context. It is intentionally **indirect and implied**.
 
 ---
 
@@ -45,7 +45,7 @@ Garry is not built to be a full replacement for natural language. It’s a **hig
 Canonical example mirroring  
 > “The quick brown fox jumped over the lazy dog.”
 
-In Garry:
+In Gary:
 
 > `gáry gary! gaary garyyy, gàry… gary.`
 
@@ -58,10 +58,10 @@ In Garry:
 ## What This Repo Contains
 
 - `01_principles.md` – design goals and core constraints  
-- `02_phonology_orthography.md` – how to pronounce and write Garry  
+- `02_phonology_orthography.md` – how to pronounce and write Gary  
 - `03_morphology.md` – how a single `gary` token can be modified  
 - `04_syntax.md` – how tokens combine into utterances  
 - `05_lexicon.md` – canonical patterns and their implied meanings  
-- `06_examples.md` – dialogues and narrative samples in Garry
+- `06_examples.md` – dialogues and narrative samples in Gary
 
 Garry is intentionally small, but its **complexity is emergent**, not lexical. The fun is in how far you can push one word.
