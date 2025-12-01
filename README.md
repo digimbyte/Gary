@@ -57,11 +57,11 @@ In Gary:
 
 ## What This Repo Contains
 
-- `01_principles.md` – design goals and core constraints  
-- `02_phonology_orthography.md` – how to pronounce and write Gary  
-- `03_morphology.md` – how a single `gary` token can be modified  
-- `04_syntax.md` – how tokens combine into utterances  
-- `05_lexicon.md` – canonical patterns and their implied meanings  
-- `06_examples.md` – dialogues and narrative samples in Gary
+- `principles.md` – design goals and core constraints  
+- `phonology_orthography.md` – how to pronounce and write Gary  
+- `morphology.md` – how a single `gary` token can be modified  
+- `syntax.md` – how tokens combine into utterances  
+- `lexicon.md` – canonical patterns and their implied meanings  
+- `examples.md` – dialogues and narrative samples in Gary
 
 Garry is intentionally small, but its **complexity is emergent**, not lexical. The fun is in how far you can push one word.
