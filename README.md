@@ -1,21 +1,67 @@
-Garry is a deliberately absurdly-minimal language: every “word” is just gary, altered. No extra roots, no auxiliary verbs, no separate pronouns. You only ever say gary—but you bend it with length, diacritics, rhythm, pitch, repetition, and punctuation to encode meaning. It’s half conlang, half social game, and it relies on implication and shared context rather than explicit vocabulary.
+# Garry Language
 
-At the orthographic level, Garry is strict and simple:
+**Garry** is a deliberately hyper-minimal constructed language.
 
-The only token is gary (with the sequence g–a–r–y preserved).
+- It has **one** lexical root: `gary`.
+- Every spoken or written “word” must contain the full sequence **g–a–r–y**.
+- There are **no other roots, no pronouns, no separate verbs**.
+- All nuance comes from **how** you shape `gary`: length, diacritics, rhythm, pitch, repetition, and punctuation.
 
-You can stretch letters (gaary, garyyy), add diacritics on a (gáry, gãry etc.), change case (gary vs GARY), stutter (g-g-gary), and use punctuation (gary?, gary…, gary!).
-All of these act as semantic modifiers—not new words. One token, many shades.
+Garry is not built to be a full replacement for natural language. It’s a **high-context signal language** and a design toy for thinking about:
 
-The real complexity is emergent, not lexical. Sequences of 1–3 garys become “sentences” whose meaning is driven by pattern and performance:
+- How much meaning humans can squeeze from **prosody and pattern**, not vocabulary.
+- How subtext, attitude, and relationship are communicated **indirectly**.
+- How a “language” can be as much a **charade system** as a code.
 
-gary. gary! → confident yes / “I agree, let’s do it.”
+---
 
-gary… gaary. → reluctant acceptance.
+## Core Idea
 
-GARY. gary. → hard boundary, then normalization.
+1. **Only one written token**: `gary`  
+   - Variants must preserve the sequence `g` + `a` + `r` + `y`.  
+   - Diacritics are allowed on `a` (e.g. `gáry`, `gàry`, `gâry`, `gäry`, `gãry`).  
+   - Lengthening is allowed: `gaary`, `gaaary`, `garyyy`, `gaaryyy`, etc.
 
-g-g-gary… → anxiety or social hesitation.
-Layer body language on top (eye contact, pointing, posture) and Garry turns into a charade-based communication system where nuance is carried as much by how you say it as what you say—because the “what” is always the same.
+2. **Meaning comes from modifiers**:
+   - Length of `a` and `y`
+   - Diacritics on `a`
+   - Case (`gary` vs `GARY`)
+   - Punctuation (`gary.`, `gary?`, `gary!`, `gary…`)
+   - Rhythmic effects such as stutter: `g-g-gary`
 
-In short: Garry is a one-word, high-context language for implied communication. It’s perfect for in-jokes, roleplay, social signaling, or as a design toy for thinking about prosody, subtext, and how much meaning humans can squeeze out of almost no vocabulary at all.
+3. **Syntax is pattern-based**:
+   - 1 token → state / stance  
+   - 2–3 tokens → relation / action / consequence  
+   - 4+ tokens → narrative, rant, or layered emotion
+
+4. **Pragmatics are essential**:
+   - Eye contact, pointing, posture, and timing are part of the message.
+   - Garry assumes a shared context. It is intentionally **indirect and implied**.
+
+---
+
+## Example
+
+Canonical example mirroring  
+> “The quick brown fox jumped over the lazy dog.”
+
+In Garry:
+
+> `gáry gary! gaary garyyy, gàry… gary.`
+
+- `gáry gary!` → active, outward agent suddenly acting (quick fox).  
+- `gaary garyyy,` → smooth leap in an arc (jumped over).  
+- `gàry… gary.` → low-energy, unmoving presence, then resolution (lazy dog, scene finished).
+
+---
+
+## What This Repo Contains
+
+- `01_principles.md` – design goals and core constraints  
+- `02_phonology_orthography.md` – how to pronounce and write Garry  
+- `03_morphology.md` – how a single `gary` token can be modified  
+- `04_syntax.md` – how tokens combine into utterances  
+- `05_lexicon.md` – canonical patterns and their implied meanings  
+- `06_examples.md` – dialogues and narrative samples in Garry
+
+Garry is intentionally small, but its **complexity is emergent**, not lexical. The fun is in how far you can push one word.
